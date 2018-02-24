@@ -1,0 +1,32 @@
+{
+  "name": "sequelizeburger2",
+  "version": "1.0.0",
+  "description": "sequelize version of burger",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-hbs": "^1.0.4",
+    "hbs": "^4.0.1",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.33.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kooldrmony/sequelizeBurger2.git"
+  },
+  "author": "Derrick Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kooldrmony/sequelizeBurger2/issues"
+  },
+  "homepage": "https://github.com/kooldrmony/sequelizeBurger2#readme"
+}
